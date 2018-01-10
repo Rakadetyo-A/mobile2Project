@@ -30,8 +30,9 @@ export class MyApp {
     private AuthService : AuthService) {
 
       firebase.initializeApp({
-        apiKey: "AIzaSyDNumy90ELm87esa9jgnCrPMOcPlyc9XBo",
-        authDomain: "favorite-quotes-app-df83a.firebaseapp.com"
+        apiKey: "AIzaSyBsTKy-z-PWDOC-L_FRCy1pPelmvf7j4Yw",
+        authDomain: "nevent-mobile.firebaseapp.com",
+        databaseURL: "https://nevent-mobile.firebaseio.com"
       });
 
 
