@@ -1,0 +1,18 @@
+page-profile {
+    .toolbar-background
+    {
+        background  : linear-gradient(to right, #0059b3 , #000d33);
+    }
+
+    .toolbar-title
+    {
+        color: white;
+        text-align: center;
+    }
+
+    .backgroundImg{
+        background-image: url('../../assets/img/blue-blur.png');
+        background-size: cover;
+        background-position: center !important;
+    }
+}
